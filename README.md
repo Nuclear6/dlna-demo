@@ -5,5 +5,5 @@
   
 # 参考资料
 ## Upnp 协议 2.0 规范
-## https://github.com/4thline/cling ，实现了upnp协议规范
+## https://github.com/4thline/cling 实现了upnp协议规范
 ## http://4thline.org/projects/cling/core/manual/cling-core-manual.xhtml 介绍如何使用cling代码
